@@ -31,7 +31,6 @@
 - 📊 Stream bitrate helper → [stream-server-bitrate](https://github.com/AlexanderWagnerDev/stream-server-bitrate)
 - 🌙 KeyHelp theme → [keyhelp-dark-mode](https://github.com/AlexanderWagnerDev/keyhelp-dark-mode)
 - 🤖 Proxmox helper script → [proxmox-rtl-sdr-lxc-auto-fix](https://github.com/AlexanderWagnerDev/proxmox-rtl-sdr-lxc-auto-fix)
-- 🧩 librist mirror → [librist](https://github.com/AlexanderWagnerDev/librist)
 - 🐳 SLSPanel container → [slspanel-docker](https://github.com/AlexanderWagnerDev/slspanel-docker)
 
 ## 🧠 Tech vibes
