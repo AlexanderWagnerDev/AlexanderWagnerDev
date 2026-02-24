@@ -15,23 +15,20 @@
 - 🛡️ Security & ops automation (scanners, backups, fixes)
 
 ## ⭐ Featured projects
-- 📡 **SRTLA / SRT Server (Docker)** → [srtla-server-docker](https://github.com/AlexanderWagnerDev/srtla-server-docker) (low-latency server + management UI)
+- 📡 **SRTLA / SRT Server (Docker)** → [srtla-server-docker](https://github.com/AlexanderWagnerDev/srtla-server-docker) (low-latency streaming server + multi networks)
 - 🎥 **NOALBS (Docker)** → [noalbs-docker](https://github.com/AlexanderWagnerDev/noalbs-docker) (automatic OBS scene switching by bitrate; IRL-focused)
 - 📡 **RTMP Server (Docker)** → [rtmp-server-docker](https://github.com/AlexanderWagnerDev/rtmp-server-docker) (simple RTMP server + web stats)
 - 🎛️ **SLS Panel (Docker)** → [slspanel-docker](https://github.com/AlexanderWagnerDev/slspanel-docker) (web control panel for streams/players/stats)
 - 🚀 **Stream Relay Installer** → [stream-relay-installer](https://github.com/AlexanderWagnerDev/stream-relay-installer) (Docker-based RTMP/SRT/SRTLA relay setup)
-- 🌙 **WordPress Admin Dark Mode** → [wp-admin-dark-mode-plugin](https://github.com/AlexanderWagnerDev/wp-admin-dark-mode-plugin) (lightweight admin toggle)
 - 🔍 **VirusTotal Domain Scanner** → [virustotal-domains-scan](https://github.com/AlexanderWagnerDev/virustotal-domains-scan) (web UI + logging + alerts)
 - 🔄 **All-Inkl → Hetzner Backup** → [all-inkl-hetzner-backup](https://github.com/AlexanderWagnerDev/all-inkl-hetzner-backup) (automated webspace backups via WebDAV)
 
 ## 🧰 More repos (public)
 - 🎥 OBS in a container → [obs-docker](https://github.com/AlexanderWagnerDev/obs-docker)
 - 🧊 Base images / templates → [alpine-docker](https://github.com/AlexanderWagnerDev/alpine-docker), [ubuntu-docker](https://github.com/AlexanderWagnerDev/ubuntu-docker), [debian-docker](https://github.com/AlexanderWagnerDev/debian-docker)
-- 📡 SRTLS server container → [srtla-server-docker](https://github.com/AlexanderWagnerDev/srtla-server-docker)
 - 📊 Stream bitrate helper → [stream-server-bitrate](https://github.com/AlexanderWagnerDev/stream-server-bitrate)
 - 🌙 KeyHelp theme → [keyhelp-dark-mode](https://github.com/AlexanderWagnerDev/keyhelp-dark-mode)
 - 🤖 Proxmox helper script → [proxmox-rtl-sdr-lxc-auto-fix](https://github.com/AlexanderWagnerDev/proxmox-rtl-sdr-lxc-auto-fix)
-- 🐳 SLSPanel container → [slspanel-docker](https://github.com/AlexanderWagnerDev/slspanel-docker)
 
 ## 🧠 Tech vibes
 - 🐳 Docker / Dockerfile-heavy repos (streaming + infra tooling)
