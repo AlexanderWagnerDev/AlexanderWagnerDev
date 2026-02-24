@@ -18,7 +18,7 @@
 - 📡 **SRTLA / SRT Server (Docker)** → [srtla-server-docker](https://github.com/AlexanderWagnerDev/srtla-server-docker) (low-latency streaming server + multi networks)
 - 🎥 **NOALBS (Docker)** → [noalbs-docker](https://github.com/AlexanderWagnerDev/noalbs-docker) (automatic OBS scene switching by bitrate; IRL-focused)
 - 📡 **RTMP Server (Docker)** → [rtmp-server-docker](https://github.com/AlexanderWagnerDev/rtmp-server-docker) (simple RTMP server + web stats)
-- 🎛️ **SLS Panel (Docker)** → [slspanel-docker](https://github.com/AlexanderWagnerDev/slspanel-docker) (web control panel for streams/players/stats)
+- 🎛️ **SLS Panel (Docker)** → [slspanel-docker](https://github.com/AlexanderWagnerDev/slspanel-docker) (web control panel for srtla stream server)
 - 🚀 **Stream Relay Installer** → [stream-relay-installer](https://github.com/AlexanderWagnerDev/stream-relay-installer) (Docker-based RTMP/SRT/SRTLA relay setup)
 - 🔍 **VirusTotal Domain Scanner** → [virustotal-domains-scan](https://github.com/AlexanderWagnerDev/virustotal-domains-scan) (web UI + logging + alerts)
 - 🔄 **All-Inkl → Hetzner Backup** → [all-inkl-hetzner-backup](https://github.com/AlexanderWagnerDev/all-inkl-hetzner-backup) (automated webspace backups via WebDAV)
