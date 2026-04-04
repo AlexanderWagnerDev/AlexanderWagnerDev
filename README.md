@@ -4,17 +4,18 @@
 🎥 IRL streaming meets engineering: stable pipelines, clean setups, fast iteration.
 
 ## 🙋‍♂️ About me
-- 🎂 I’m 20 years old
+- 🎂 I'm 20 years old
 - 🧪 I do this as a hobby — because I genuinely love building stuff
-- 🔥 I’m obsessed with making streaming setups smoother, faster, and more reliable
+- 🔥 I'm obsessed with making streaming setups smoother, faster, and more reliable
 - 🛠️ I like shipping practical tools over perfect theory
 
-## 🧩 What I’m into
+## 🧩 What I'm into
 - 🎬 Live/IRL streaming workflows & reliability tooling
 - 🐳 Docker-first deployments (shipping reproducible setups)
 - 🛡️ Security & ops automation (scanners, backups, fixes)
 
 ## ⭐ Featured projects
+- 🌑 **DarkAdmin** → [darkadmin](https://github.com/AlexanderWagnerDev/darkadmin) (dark admin theme for WordPress)
 - 📡 **SRTLA / SRT Server (Docker)** → [srtla-server-docker](https://github.com/AlexanderWagnerDev/srtla-server-docker) (low-latency streaming server + multi networks)
 - 🎥 **NOALBS (Docker)** → [noalbs-docker](https://github.com/AlexanderWagnerDev/noalbs-docker) (automatic OBS scene switching by bitrate; IRL-focused)
 - 📡 **RTMP Server (Docker)** → [rtmp-server-docker](https://github.com/AlexanderWagnerDev/rtmp-server-docker) (simple RTMP server + web stats)
