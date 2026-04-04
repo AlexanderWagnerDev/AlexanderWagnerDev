@@ -15,7 +15,6 @@
 - 🛡️ Security & ops automation (scanners, backups, fixes)
 
 ## ⭐ Featured projects
-- 🌑 **DarkAdmin** → [darkadmin](https://github.com/AlexanderWagnerDev/darkadmin) (dark admin theme for WordPress)
 - 📡 **SRTLA / SRT Server (Docker)** → [srtla-server-docker](https://github.com/AlexanderWagnerDev/srtla-server-docker) (low-latency streaming server + multi networks)
 - 🎥 **NOALBS (Docker)** → [noalbs-docker](https://github.com/AlexanderWagnerDev/noalbs-docker) (automatic OBS scene switching by bitrate; IRL-focused)
 - 📡 **RTMP Server (Docker)** → [rtmp-server-docker](https://github.com/AlexanderWagnerDev/rtmp-server-docker) (simple RTMP server + web stats)
@@ -23,6 +22,7 @@
 - 🚀 **Stream Relay Installer** → [stream-relay-installer](https://github.com/AlexanderWagnerDev/stream-relay-installer) (Docker-based RTMP/SRT/SRTLA relay setup)
 - 🔍 **VirusTotal Domain Scanner** → [virustotal-domains-scan](https://github.com/AlexanderWagnerDev/virustotal-domains-scan) (web UI + logging + alerts)
 - 🔄 **All-Inkl → Hetzner Backup** → [all-inkl-hetzner-backup](https://github.com/AlexanderWagnerDev/all-inkl-hetzner-backup) (automated webspace backups via WebDAV)
+- 🌑 **DarkAdmin - Dark Mode for Adminpanel** → [wp-darkadmin-plugin](https://github.com/AlexanderWagnerDev/wp-darkadmin-plugin) (dark mode for WordPress WP-Admin)
 
 ## 🧰 More repos (public)
 - 🎥 OBS in a container → [obs-docker](https://github.com/AlexanderWagnerDev/obs-docker)
