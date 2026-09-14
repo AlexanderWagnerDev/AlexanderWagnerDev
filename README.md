@@ -41,7 +41,6 @@
 
 ## 🧰 More repos (public)
 - 🎥 OBS in a container → [obs-docker](https://github.com/AlexanderWagnerDev/obs-docker)
-- 📉 NGINX/OBS low-bitrate switching → [nginx-obs-automatic-low-bitrate-switching](https://github.com/AlexanderWagnerDev/nginx-obs-automatic-low-bitrate-switching)
 - 🎬 NOALBS Linux setup → [noalbs-linux](https://github.com/AlexanderWagnerDev/noalbs-linux)
 - 🧊 Base images / templates → [alpine-docker](https://github.com/AlexanderWagnerDev/alpine-docker), [ubuntu-docker](https://github.com/AlexanderWagnerDev/ubuntu-docker), [debian-docker](https://github.com/AlexanderWagnerDev/debian-docker)
 - 📊 Stream bitrate helper → [stream-server-bitrate](https://github.com/AlexanderWagnerDev/stream-server-bitrate)
