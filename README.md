@@ -1,73 +1,111 @@
-# 👋 AlexanderWagnerDev
+<div align="center">
 
-🚀 Building streaming infrastructure, Dockerized toolchains & practical web automation.  
-🎥 IRL streaming meets engineering: stable pipelines, clean setups, fast iteration.
+# Hi, I'm Alexander Wagner 👋
 
-## 🙋‍♂️ About me
-- 🎂 I'm 20 years old
-- 🧪 I do this as a hobby — because I genuinely love building stuff
-- 🔥 I'm obsessed with making streaming setups smoother, faster, and more reliable
-- 🛠️ I like shipping practical tools over perfect theory
-- 🌐 Currently focused heavily on **[OpenRTMP](https://github.com/OpenRTMP)** and modern RTMP infrastructure
+**Hobby developer · Open-source maintainer · Streaming infrastructure enthusiast**
 
-## 🧩 What I'm into
-- 🎬 Live/IRL streaming workflows & reliability tooling
-- 📡 RTMP / RTMPS / SRT / SRTLA infrastructure
-- 🦀 Rust-based protocol, server & networking development
-- 🐳 Docker-first deployments and reproducible infrastructure
-- 🐧 Linux, servers, Proxmox, networking & automation
-- 🛡️ Security & ops automation (scanners, backups, fixes)
+I build streaming infrastructure, self-hosted developer tools and automation — from network protocols and media servers to the interfaces and deployment pipelines around them.
 
-## 🚀 OpenRTMP
+[![Website](https://img.shields.io/badge/Website-181E35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://alexanderwagnerdev.com)
+[![OpenRTMP](https://img.shields.io/badge/OpenRTMP-243B67?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenRTMP)
+[![IRL.com.de](https://img.shields.io/badge/IRL.com.de-243B67?style=for-the-badge&logo=obsstudio&logoColor=white)](https://irl.com.de)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/alexanderwagnerdev)
 
-**[OpenRTMP](https://github.com/OpenRTMP)** is my current open-source focus: modern RTMP infrastructure for developers and stream operators.
+</div>
 
-- 🦀 **[librtmp2](https://github.com/OpenRTMP/librtmp2)** — Rust RTMP/RTMPS protocol library with Enhanced RTMP work, AMF, chunking, relay primitives and C-compatible FFI
-- 📡 **[librtmp2-server](https://github.com/OpenRTMP/librtmp2-server)** — RTMP/RTMPS server built on librtmp2 with stream keys, REST API, statistics and Docker images
-- 🎛️ **[librtmp2-server-panel](https://github.com/OpenRTMP/librtmp2-server-panel)** — browser-based control panel for stream management and live statistics
-- 📦 **[packages](https://github.com/OpenRTMP/packages)** — package/build infrastructure for OpenRTMP releases
-- 🌐 **[openrtmp.org](https://openrtmp.org/)** — documentation, guides and project website
+---
 
-## ⭐ Featured projects
-- 🎛️ **RTMPPanel (Docker)** → [rtmppanel-docker](https://github.com/AlexanderWagnerDev/rtmppanel-docker) (Docker wrapper for the OpenRTMP librtmp2 server panel)
-- 📡 **SRTLA / SRT Server (Docker)** → [srtla-server-docker](https://github.com/AlexanderWagnerDev/srtla-server-docker) (low-latency streaming server + multi-network support)
-- 🎥 **NOALBS (Docker)** → [noalbs-docker](https://github.com/AlexanderWagnerDev/noalbs-docker) (automatic OBS scene switching by bitrate; IRL-focused)
-- 📡 **RTMP Server (Docker)** → [rtmp-server-docker](https://github.com/AlexanderWagnerDev/rtmp-server-docker) (simple RTMP server + web stats)
-- 🎛️ **SLS Panel (Docker)** → [slspanel-docker](https://github.com/AlexanderWagnerDev/slspanel-docker) (web control panel for SRTLA/SLS streaming servers)
-- 🚀 **Stream Relay Installer** → [stream-relay-installer](https://github.com/AlexanderWagnerDev/stream-relay-installer) (Docker-based RTMP/SRT/SRTLA relay setup)
-- 🔍 **VirusTotal Domain Scanner** → [virustotal-domains-scan](https://github.com/AlexanderWagnerDev/virustotal-domains-scan) (web UI + logging + alerts)
-- 🔄 **All-Inkl → Hetzner Backup** → [all-inkl-hetzner-backup](https://github.com/AlexanderWagnerDev/all-inkl-hetzner-backup) (automated webspace backups via WebDAV)
-- 🌑 **DarkAdmin - Dark Mode for Adminpanel** → [wp-darkadmin-plugin](https://github.com/AlexanderWagnerDev/wp-darkadmin-plugin) (dark mode for WordPress WP-Admin)
+## What I'm building
 
-## 🧰 More repos (public)
-- 🎥 OBS in a container → [obs-docker](https://github.com/AlexanderWagnerDev/obs-docker)
-- 🎬 NOALBS Linux setup → [noalbs-linux](https://github.com/AlexanderWagnerDev/noalbs-linux)
-- 🧊 Base images / templates → [alpine-docker](https://github.com/AlexanderWagnerDev/alpine-docker), [ubuntu-docker](https://github.com/AlexanderWagnerDev/ubuntu-docker), [debian-docker](https://github.com/AlexanderWagnerDev/debian-docker)
-- 📊 Stream bitrate helper → [stream-server-bitrate](https://github.com/AlexanderWagnerDev/stream-server-bitrate)
-- 🌙 KeyHelp theme → [keyhelp-dark-mode](https://github.com/AlexanderWagnerDev/keyhelp-dark-mode)
-- 🤖 Proxmox helper script → [proxmox-rtl-sdr-lxc-auto-fix](https://github.com/AlexanderWagnerDev/proxmox-rtl-sdr-lxc-auto-fix)
-- 🦾 OpenClaw custom tooling → [openclaw-custom](https://github.com/AlexanderWagnerDev/openclaw-custom)
+| Project | What it's about |
+| :--- | :--- |
+| **[OpenRTMP](https://openrtmp.org/)** | Modern open-source RTMP infrastructure, from a Rust protocol library to a streaming server, web panel and package ecosystem. |
+| **[IRL.com.de](https://irl.com.de)** | Free relay service for IRL live streaming, built around RTMP, SRT and reliable stream delivery. |
+| **[AgentNexus](https://github.com/AlexanderWagnerDev/agent-nexus)** | A self-hosted hub to discover, manage and resume existing AI coding-agent sessions across Windows, Linux and macOS. |
+| **[FFmpeg for Ubuntu](https://github.com/AlexanderWagnerDev/ffmpeg-ubuntu)** | Automated, community-maintained FFmpeg packaging from stable upstream releases, distributed through a Launchpad PPA and a signed APT repository. |
 
-## 🧠 Tech stack
-- 🦀 **Rust** — networking, protocol and server work around OpenRTMP
-- 🐳 **Docker / Docker Compose** — streaming infrastructure, deployment and packaging
-- 🐧 **Linux / Proxmox / networking** — servers, routing, automation and operations
-- 🐍 **Python** — control panels, tooling and automation
-- 🐘 **PHP** — web projects, WordPress and backend tooling
-- 🐚 **Shell** — installers, deployment scripts and system automation
-- ⚙️ **GitHub Actions / CI** — builds, tests, packaging and release automation
-- 🎨 **HTML / CSS / JavaScript** — web interfaces and dashboards
-- 📡 **RTMP / RTMPS / SRT / SRTLA / FFmpeg / OBS** — streaming protocols and workflows
+## OpenRTMP — from protocol to deployment
 
-## 🤝 Contact / Links
-- 📬 Email: [info@alexanderwagnerdev.com](mailto:info@alexanderwagnerdev.com)
-- 🌐 Website: https://alexanderwagnerdev.com
-- 📡 OpenRTMP: https://openrtmp.org/
-- 🧵 For bugs/ideas: open an issue in the matching repo (PRs welcome)
+[OpenRTMP](https://github.com/OpenRTMP) is my main open-source focus. I'm building an ecosystem that makes RTMP infrastructure easier to integrate, deploy and operate.
+
+| Repository | Purpose |
+| :--- | :--- |
+| [**librtmp2**](https://github.com/OpenRTMP/librtmp2) | Rust RTMP/RTMPS library with Enhanced RTMP, AMF, chunking, relay primitives and a C-compatible FFI. |
+| [**librtmp2-server**](https://github.com/OpenRTMP/librtmp2-server) | RTMP/RTMPS media server with a REST API, stream management and live statistics. |
+| [**librtmp2-server-panel**](https://github.com/OpenRTMP/librtmp2-server-panel) | Web-based control panel for managing streams and monitoring server statistics. |
+| [**packages**](https://github.com/OpenRTMP/packages) · [**homebrew-tap**](https://github.com/OpenRTMP/homebrew-tap) | Automated builds and package distribution, including Homebrew. |
+| [**openrtmp.org**](https://github.com/OpenRTMP/openrtmp.org) · [**community**](https://github.com/OpenRTMP/community) | Website, documentation, guides, support and cross-project discussions. |
+
+**Explore:** [Documentation](https://openrtmp.org/docs/) · [Package repository](https://packages.openrtmp.org/) · [Rust crate](https://crates.io/crates/librtmp2) · [Community](https://github.com/OpenRTMP/community/discussions)
+
+## Streaming & self-hosting
+
+Practical tools to run your own streaming infrastructure, automate deployments and keep live streams running.
+
+| Repository | Purpose |
+| :--- | :--- |
+| [**stream-relay-installer**](https://github.com/AlexanderWagnerDev/stream-relay-installer) | Interactive installer for self-hosted RTMP, SRT and SRTLA relay infrastructure. |
+| [**rtmp-server-docker**](https://github.com/AlexanderWagnerDev/rtmp-server-docker) | OpenRTMP server packaged for Docker with an optional web panel. |
+| [**rtmppanel-docker**](https://github.com/AlexanderWagnerDev/rtmppanel-docker) | Docker distribution of the OpenRTMP control panel. |
+| [**srtla-server-docker**](https://github.com/AlexanderWagnerDev/srtla-server-docker) | SRTLA and SRT-Live-Server in Docker for low-latency streaming. |
+| [**slspanel-docker**](https://github.com/AlexanderWagnerDev/slspanel-docker) | Web panel for SRT-Live-Server with stream management and statistics. |
+| [**noalbs-docker**](https://github.com/AlexanderWagnerDev/noalbs-docker) · [**noalbs-linux**](https://github.com/AlexanderWagnerDev/noalbs-linux) | Automated OBS scene switching based on stream health. |
+| [**obs-docker**](https://github.com/AlexanderWagnerDev/obs-docker) · [**stream-server-bitrate**](https://github.com/AlexanderWagnerDev/stream-server-bitrate) | Containerized OBS and stream bitrate tooling. |
+
+## Infrastructure & automation
+
+| Repository | Purpose |
+| :--- | :--- |
+| [**all-inkl-hetzner-backup**](https://github.com/AlexanderWagnerDev/all-inkl-hetzner-backup) | Automated webspace backups to Hetzner via WebDAV. |
+| [**virustotal-domains-scan**](https://github.com/AlexanderWagnerDev/virustotal-domains-scan) | Domain security scanning with a web UI, logging and alerts. |
+| [**proxmox-rtl-sdr-lxc-auto-fix**](https://github.com/AlexanderWagnerDev/proxmox-rtl-sdr-lxc-auto-fix) | RTL-SDR troubleshooting and automation for Proxmox LXC. |
 
 <details>
-  <summary>🔒 Note</summary>
+<summary><strong>More public projects</strong></summary>
 
-Some of my projects are private (WIP / personal infra).
+| Repository | Purpose |
+| :--- | :--- |
+| [alpine-docker](https://github.com/AlexanderWagnerDev/alpine-docker) · [debian-docker](https://github.com/AlexanderWagnerDev/debian-docker) · [ubuntu-docker](https://github.com/AlexanderWagnerDev/ubuntu-docker) | Linux container images and templates. |
+| [wp-darkadmin-plugin](https://github.com/AlexanderWagnerDev/wp-darkadmin-plugin) | Dark mode for the WordPress admin interface. |
+| [keyhelp-dark-mode](https://github.com/AlexanderWagnerDev/keyhelp-dark-mode) | Dark theme for the KeyHelp control panel. |
+
+Related upstream forks (not original projects): [openirl-srt](https://github.com/AlexanderWagnerDev/openirl-srt), [BitrateSceneSwitch](https://github.com/OpenRTMP/BitrateSceneSwitch) and [Awesome Self-Hosted-First Streaming](https://github.com/OpenRTMP/awesome-self-hosted-first-streaming).
 
 </details>
+
+## Tech & interests
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-30363D?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-30363D?style=flat-square&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=FFD43B)
+![PHP](https://img.shields.io/badge/PHP-30363D?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-30363D?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=FCC624)
+![Proxmox](https://img.shields.io/badge/Proxmox-30363D?style=flat-square&logo=proxmox&logoColor=E57000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363D?style=flat-square&logo=githubactions&logoColor=2088FF)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-30363D?style=flat-square&logo=ffmpeg&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-30363D?style=flat-square&logo=obsstudio&logoColor=white)
+
+</div>
+
+**Streaming:** RTMP / RTMPS · Enhanced RTMP · SRT / SRTLA · media pipelines · interoperability
+
+**Infrastructure:** Linux · networking · containers · CI/CD · packaging · security · reliability
+
+**Developer tooling:** self-hosted AI coding agents · automation · practical web interfaces
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+[Website](https://alexanderwagnerdev.com) · [Email](mailto:info@alexanderwagnerdev.com) · [All public repositories](https://github.com/AlexanderWagnerDev?tab=repositories&type=public)
+
+Feedback, bug reports and pull requests are welcome in the relevant repositories.
+
+</div>
